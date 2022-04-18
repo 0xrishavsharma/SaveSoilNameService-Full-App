@@ -1,5 +1,4 @@
-Building a Name Service Platform on the Mumbai Testnet
-```
+'Building a Name Service Platform on the Mumbai Testnet'
 
 This project demonstrates a basic use case of Solidity, React and Hardhat by building a Domain Registration Platform.
 
